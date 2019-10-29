@@ -6,4 +6,4 @@ permalink: /about/
 
 I am a third year PhD student in Statistics at UC Berkeley.
 
-My research interests are in the development and application of statistical tools necessary for evaluating climate impacts on society. In particular I work on causal inference methods for correlated space-time data.
+My research interests are in the development and application of causal inference methods for correlated space-time data. My motivation comes from the desire to demystify causal relationships in coupled human and natural systems -- impacts of climate on society and human activities on the environment.
