@@ -13,4 +13,4 @@ Graduate Student Instructor
 
 Grader
 
-* Spring 2017: RESCH-GE 2110 Using Large Databases in Educational Research
+* Spring 2017: RESCH-GE 2110 Using Large Databases in Educational Research, NYU
