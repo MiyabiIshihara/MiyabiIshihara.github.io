@@ -1,15 +1,16 @@
 ---
 layout: page
-# title: "Teaching"
+title: "Teaching"
 permalink: /teaching/
 ---
 
-### Graduate Student Instructor
-Spring 2019, UC Berkeley
 
-* Stat133: Concepts in Computing with Data
+Graduate Student Instructor
 
-Spring 2017, NYU
+* Spring 2019: Stat133 [Concepts in Computing with Data](https://github.com/ucb-stat133/stat133-spring-2019), UC Berkeley
 
-* APSTA-GE 2004: Topics in Multivariate Analysis
-* RESCH-GE 2110: Using Large Databases in Educational Research (Grader)
+* Spring 2017: APSTA-GE 2004 Topics in Multivariate Analysis, NYU
+
+Grader
+
+* Spring 2017: RESCH-GE 2110 Using Large Databases in Educational Research
