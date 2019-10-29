@@ -1,16 +1,9 @@
 ---
 layout: page
-title: "Teaching"
-permalink: /teaching/
+title: "Writing"
+permalink: /Writing/
 ---
 
+* Interview articles featuring the work and lives of applied statisticians at NYU [article](https://wp.nyu.edu/priismblog/)
 
-### Graduate Student Instructor
-
-* Spring 2019: Stat133 [Concepts in Computing with Data](https://github.com/ucb-stat133/stat133-spring-2019), UC Berkeley
-
-* Spring 2017: APSTA-GE 2004 Topics in Multivariate Analysis, NYU
-
-### Grader
-
-* Spring 2017: RESCH-GE 2110 Using Large Databases in Educational Research, NYU
+* Reports of my experience in Statistics PhD program (in Japanese) [report](https://www.funaifoundation.jp/scholarship/grantee_ishihara_miyabi.html)
