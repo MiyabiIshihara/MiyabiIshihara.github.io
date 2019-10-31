@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-My past work mainly involves the use of dimension reduction techniques and regression analysis to address questions raised in climatology, health, education, and ethology. 
+My past work involves the use of dimension reduction techniques, multilevel models, and/or linear programming to address questions raised in extreme climate events, health diagnosis, teaching practices, and swarm behavior. 
 
 #### Publications
 
