@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Writing"
-permalink: /Writing/
+permalink: /writing/
 ---
 
 * Interview articles featuring the work and lives of applied statisticians at NYU [[article]](https://wp.nyu.edu/priismblog/)
