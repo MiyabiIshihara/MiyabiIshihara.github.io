@@ -7,6 +7,8 @@ layout: home
 
 I am a third year PhD student in Statistics at UC Berkeley.
 
-My research interests lie on methodology for causal inference in the presence of interference and unmeasured spatial confounding. My motivations comes from
+My research interests are on developing methods for causal inference and applying them to problems with complex spatial effects. In particular, I am interested in cases of interference and unmeasured spatial confounding. My motivation comes from questions that arise in studies of climate impacts, anthropogenic impacts, and environmental policy evaluation.
 
-You can contact me by email at firstname underscore lastname at berkeley dot edu.
+Outside of research I enjoy drawing, crafting, and finding new music in different languages.
+
+Email: miyabi_ishihara_at_berkeley_dot_edu
