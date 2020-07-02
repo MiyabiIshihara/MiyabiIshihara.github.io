@@ -5,9 +5,9 @@
 layout: home
 ---
 
-I am a third year PhD student in Statistics at UC Berkeley.
+I am a fourth year PhD student in Statistics at UC Berkeley.
 
-My research interests are on developing methods for causal inference and applying them to problems with complex spatial effects. In particular, I am interested in cases of interference and unmeasured spatial confounding. My motivation comes from questions that arise in studies of climate impacts, anthropogenic impacts, and environmental policy evaluation.
+My research focuses on development of causal inference methods in complex observational studies. Specific areas include methods for causal inference with confounding, interference, satellite images, and spatial statistics. My projects are motivated by problems with potential for social and environmental impact. 
 
 Outside of research, I enjoy drawing, crafting, and finding new music in different languages.
 

@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-My past work involves the use of dimension reduction techniques, multilevel models, and/or integer programming method to address questions raised in extreme climate events, medical diagnosis, teaching practices, and swarm behavior. 
+My past work involves the use of dimension reduction techniques, multilevel models, and/or integer programming method to address questions raised in extreme climate events, medical diagnosis, teaching practices, and swarm behavior.
 
 #### Publications
 
