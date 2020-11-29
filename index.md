@@ -5,10 +5,10 @@
 layout: home
 ---
 
-I am a fourth year PhD student in Statistics at UC Berkeley.
+I am a PhD student in Statistics at UC Berkeley.
 
-My research focuses on development of causal inference methods in complex observational studies. Specific areas include methods for causal inference with confounding, interference, satellite images, and spatial statistics. My projects are motivated by problems with potential for social and environmental impact. 
+My research focuses on development of causal inference methods in complex observational studies. Specific areas include methods for causal inference with confounding, remote sensing, and spatial analysis. The projects are motivated by problems with potential for social and environmental impact. Current areas of focus are on occurrences and impacts of environmental hazards.
 
-Outside of research, I enjoy drawing, crafting, and finding new music in different languages.
+Outside of research, I enjoy drawing and finding new music in different languages.
 
 Email: miyabi_ishihara_at_berkeley_dot_edu
