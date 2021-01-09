@@ -6,16 +6,18 @@ permalink: /teaching/
 
 
 #### Graduate Student Instructor
-* Fall 2020: Stat151A Linear Modeling: Theory and Applications, UC Berkeley
+[comment]: <> (* Stat158 Time Series Analysis. UC Berkeley. Spring 2021.)
 
-* Spring 2019: Stat133 [Concepts in Computing with Data](https://github.com/ucb-stat133/stat133-spring-2019), UC Berkeley
+* Stat151A Linear Modeling: Theory and Applications. UC Berkeley. Fall 2020.
 
-* Spring 2017: APSTA-GE 2004 Topics in Multivariate Analysis, NYU
+* Stat133 [Concepts in Computing with Data](https://github.com/ucb-stat133/stat133-spring-2019). UC Berkeley. Spring 2019.
+
+* APSTA-GE 2004 Topics in Multivariate Analysis. NYU. Spring 2017.
 
 #### Lab Assistant
 
-* Jan, Aug 2019: [R Bootcamp](https://github.com/berkeley-scf/r-bootcamp-fall-2019), UC Berkeley
+* [R Bootcamp](https://github.com/berkeley-scf/r-bootcamp-fall-2019). UC Berkeley. Jan, Aug 2019.
 
 #### Grader
 
-* Spring 2017: RESCH-GE 2110 Using Large Databases in Educational Research, NYU
+* RESCH-GE 2110 Using Large Databases in Educational Research. NYU. Spring 2017.
