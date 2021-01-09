@@ -11,4 +11,4 @@ My research focuses on development of causal inference methods in complex observ
 
 Outside of research, I enjoy drawing and finding new music in different languages.
 
-Email: miyabi_ishihara_at_berkeley_dot_edu
+Email: miyabi_ishihara at berkeley dot edu
